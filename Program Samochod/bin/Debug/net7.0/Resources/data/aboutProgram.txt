@@ -1,0 +1,12 @@
+11
+Program "samochód" jest projektem wykonanym w ramach projektu 
+z programowania obiektowego prowadzone przez
+Profesor Barbarę Fryc w Wyższej Szkole Informatyki i Zarządzania.
+
+Do stworzenia programu wykorzystany został język C# oraz
+biblioteka SFML w wersji 2.4, dzięki której możliwe było
+stworzenie interfejsu graficznego.
+
+Ze względu na szybko zbliżający się termin oddania pracy
+nie wszystkie funkcjonalności programu zostały zaimplementowane,
+a sam kod jest pełen niedociągnięć.

@@ -1,0 +1,44 @@
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\csfml-audio-2.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\csfml-graphics-2.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\csfml-system-2.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\csfml-window-2.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\openal32.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\OpenTK.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\Program Samochod.exe
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\Program Samochod.deps.json
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\Program Samochod.runtimeconfig.json
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\Program Samochod.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\Program Samochod.pdb
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\sfml-audio.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\sfml-graphics.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\sfml-system.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\sfml-window.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\obj\Debug\net7.0\Program Samochod.csproj.AssemblyReference.cache
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\obj\Debug\net7.0\Program Samochod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\obj\Debug\net7.0\Program Samochod.AssemblyInfoInputs.cache
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\obj\Debug\net7.0\Program Samochod.AssemblyInfo.cs
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\obj\Debug\net7.0\Program Samochod.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\obj\Debug\net7.0\Program Samochod.csproj.CopyComplete
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\obj\Debug\net7.0\Program Samochod.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\obj\Debug\net7.0\refint\Program Samochod.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\obj\Debug\net7.0\Program Samochod.pdb
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\obj\Debug\net7.0\Program Samochod.genruntimeconfig.cache
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\obj\Debug\net7.0\ref\Program Samochod.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\EPPlus.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\EPPlus.Interfaces.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Programming\Projects\Visual Studio\Program Samochod\Program Samochod\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
