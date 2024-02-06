@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="aboutInterface">
+    <Position X="30.5" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABABAAAAIQA=</HashCode>
+      <FileName>aboutInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Camera">
+    <Position X="21.25" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAIAAIYACAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarObject">
+    <Position X="9.5" Y="19.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgVCCjkAAAIADISIFCsAgGQBC0QIISQRShUECAAAApA=</HashCode>
+      <FileName>CarObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarSelectorInterface">
+    <Position X="35" Y="20.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CarSelectorInterface.carType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CarSelectorInterface.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>iAQAAAAAAAAAAAAgABEAEAEAAABAAAAAABABAAAgIQA=</HashCode>
+      <FileName>CarSelectorInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarSimulator">
+    <Position X="23" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQBBIACBgEAIgAgQAAAACgQgAAAEAAoAJAAACAAAgI=</HashCode>
+      <FileName>CarSimulator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DriverDataInterface">
+    <Position X="39.5" Y="20.25" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="DriverDataInterface.GUI_driverDataReturnButton" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DriverDataInterface.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="DriverDataInterface.GUI_driverDataLoginButton" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DriverDataInterface.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="DriverDataInterface.GUI_newDriverAccount" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DriverDataInterface.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Struct Name="DriverDataInterface.driverAccount" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DriverDataInterface.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="DriverDataInterface.MessageBox" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DriverDataInterface.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQQAAAEAAABAAAAgAAAAAAMAEBgAAAIABhADAACAIQA=</HashCode>
+      <FileName>DriverDataInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FPSCounter">
+    <Position X="24.75" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQBAAEAAAAAAAAAAAQAAAAAAAAAIAAAAAAgAAA=</HashCode>
+      <FileName>FPSCounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameplayInterface">
+    <Position X="32.75" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAVAgAAAAAAAAAAAAAAAAAQQBABAAAABCAAAAABAA=</HashCode>
+      <FileName>GameplayInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GPCone">
+    <Position X="12" Y="25.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgwAAAAAAAICQBAAAACAAAAAAAAAAAAAABAAACAAAAA=</HashCode>
+      <FileName>GPCone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GPMapBarrier">
+    <Position X="14.25" Y="25.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAIAAAAAAAAAAAAAAAAAAAAAABAAACAAAAA=</HashCode>
+      <FileName>GPMapBarrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GPObject">
+    <Position X="13" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>GPObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_aboutInterfaceBackButton" Collapsed="true">
+    <Position X="44" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>GUI_aboutInterfaceBackButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_aboutInterfaceButton" Collapsed="true">
+    <Position X="49.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>GUI_aboutInterfaceBackButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_Button">
+    <Position X="44" Y="9.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="GUI_Button.buttonState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GUI_Button.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAIAAAIIAAiAAAAAAAghEAAAAAAAEAAA=</HashCode>
+      <FileName>GUI_Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_Caption">
+    <Position X="42.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAACAAAAIIAIAACAAAAAAAIAAAAAAgEAAA=</HashCode>
+      <FileName>GUI_Caption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_grayCarChoseButton" Collapsed="true">
+    <Position X="38.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>GUI_carSelectorButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_greenCarChoseButton" Collapsed="true">
+    <Position X="42.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>GUI_carSelectorButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_orangeCarChoseButton" Collapsed="true">
+    <Position X="45.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>GUI_carSelectorButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_ursusCarChoseButton" Collapsed="true">
+    <Position X="51" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>GUI_carSelectorButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_loadFromSQLDatabase" Collapsed="true">
+    <Position X="33.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>GUI_carSelectorButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_LoadFromXLS" Collapsed="true">
+    <Position X="37" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>GUI_carSelectorButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_goBack" Collapsed="true">
+    <Position X="40.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>GUI_carSelectorButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_Object">
+    <Position X="44" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>GUI_Object.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_carSelectorButton" Collapsed="true">
+    <Position X="47.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>GUI_StartButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_StartButton" Collapsed="true">
+    <Position X="52.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>GUI_StartButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_InputDriverData" Collapsed="true">
+    <Position X="35.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>GUI_StartButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface">
+    <Position X="30.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAIAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>interface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenuInterface">
+    <Position X="37.25" Y="20.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="MainMenuInterface.GUI_exitProgram" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MainMenuInterface.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAIAAAAAAAAAAAAAEAAAABAAACAAIQA=</HashCode>
+      <FileName>MainMenuInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="maneuveringArea">
+    <Position X="16.5" Y="25.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>maneuveringArea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Obstacle">
+    <Position X="13" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAIAAIAAAAAAAAAgAAAAAACAAAAA=</HashCode>
+      <FileName>Obstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program">
+    <Position X="24.75" Y="22" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="graphicResource">
+    <Position X="24.75" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAACAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>resourcesContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="resourcesContainer">
+    <Position X="21.25" Y="22.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="resourcesContainer.textureCode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>resourcesContainer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAABQAAAgAAAAAAABAAAAAAAAgoAAAAAAAAAAg=</HashCode>
+      <FileName>resourcesContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextInput">
+    <Position X="45.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABQAAACAAAAAIIAIAAAAAAAKAAIAAACAAgEAAA=</HashCode>
+      <FileName>TextInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
